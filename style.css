@@ -1,0 +1,139 @@
+body{
+    background-color: rgb(246, 242, 247);
+}
+header {
+    background-color: rgb(20, 3, 3);
+    padding: 8px;
+    border: 2px solid orange;
+    
+}
+h2{
+    display: inline-block;
+    color: white;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    float: right;
+    color: white;
+    padding: 30px;
+    font-size: 29px;
+}
+
+#one{
+        text-align: center;
+        margin-left: 550px;
+        padding: 5px;
+        size: 30px;
+        margin: 30px;
+        margin-top: 30px;
+        margin-right: 100px;
+        margin-bottom: 30px;
+        margin-left: 50px;
+
+}
+.two{
+    margin-right: 30px;
+}
+section{
+    background-color: black;
+    padding: 43px;
+    margin: 10px;
+    float: right;
+    border: 1px solid green;
+    border-radius: 1rem;
+}
+h3{
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border: 2px solid red;
+    border-radius: 1rem;
+   
+}
+h4{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+ul{
+    font-size: 15px;
+    text-align: center;
+}
+button{
+    margin-left: 121px;
+    color: black;
+    padding: 10px;
+}
+.five{
+    margin: 10px;
+}
+.six{
+    margin-left: 30px;
+}
+.seven{
+    font-size: 25px;
+}
+h1{
+    font-size: 30px;
+}
+.nineteen{
+    padding: 20px;
+}
+p{
+    font-size: 30px;
+    font-family: cursive;
+    margin-left: 570px;
+}
+
+.first{
+    font-size: larger;
+    color: black;
+    background: gold;
+    display: inline;
+    padding: 20px;
+    float: left;
+}
+select{
+    padding: 18px;
+    background: content-box;
+    margin: 4px;
+    float: left;
+}
+input{
+    padding: 18px;
+    text-align: center;
+    background: rgb(240, 238, 238);
+    float: left;
+    margin: 4px;
+}
+.second{
+    font-size: larger;
+    color: black;
+    background: gold;
+    display: inline;
+    padding: 20px;
+    margin-top: 5px;
+    float: left;
+}
+#fif{
+    display: revert;
+    width: 180px;
+    margin-left: 300px;
+}
+footer {
+    padding: 20px;
+    margin: 100px;
+    border: 5px solid red;
+    text-align: left;
+}
+#footerr{
+    margin: 30px;
+    size: 30px;
+    text-align: center;
+}
+
